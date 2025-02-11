@@ -1,0 +1,444 @@
+{
+  "main": {
+    "id": "8f14ecaf651df13d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b71d46f04ae867bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d93f8d3efd0bff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/2057 – The Great Medical Breakthrough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2057 – The Great Medical Breakthrough"
+            }
+          },
+          {
+            "id": "1946dcc86cfee92a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/2062 – Exodus Fleet Launch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2062 – Exodus Fleet Launch"
+            }
+          },
+          {
+            "id": "a54c5bed84575b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/2063 – Internal Turmoil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2063 – Internal Turmoil"
+            }
+          },
+          {
+            "id": "d474af1fcee64bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/2065 – The Guinea Pig Mission.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2065 – The Guinea Pig Mission"
+            }
+          },
+          {
+            "id": "6a194d1677623eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character/Monarch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monarch"
+            }
+          },
+          {
+            "id": "7e1f35fbe04ef37e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/Drillworkers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drillworkers"
+            }
+          },
+          {
+            "id": "fd0f910daf1832c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alien/The Vyrrath.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Vyrrath"
+            }
+          },
+          {
+            "id": "06c384b0ccb83561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/Enforcer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enforcer"
+            }
+          },
+          {
+            "id": "4430c4fa959897b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/Enforcer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enforcer"
+            }
+          },
+          {
+            "id": "3d742323d5282912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/Technocrats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Technocrats"
+            }
+          },
+          {
+            "id": "a29cc88d3858a808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/Immortal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Immortal"
+            }
+          },
+          {
+            "id": "3eb8121e3cbd53a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alien/Skitterkin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skitterkin"
+            }
+          },
+          {
+            "id": "6e7876dc88fd2f9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alien/Human - cockroach.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Human - cockroach"
+            }
+          },
+          {
+            "id": "4da216509c8b56ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/2067 – Earth’s Destruction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2067 – Earth’s Destruction"
+            }
+          },
+          {
+            "id": "03cdc971e2061b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline/2070 – The Long Journey Begins.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2070 – The Long Journey Begins"
+            }
+          },
+          {
+            "id": "1effd06469da1a28",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1dd08a7f1f7a93f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "646295316129b8d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e6db6c01ab635e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c987d1ea66ecbc82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a70d2b18b2f978b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9dbc2a3234305783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07d050e63d10f860",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bd4aae8657d6b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f14b3a9415e27196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "441b465173cf8bef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Character/Kael Voss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kael Voss"
+            }
+          },
+          {
+            "id": "c000f1f46545d71c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6274fadecfde4c70",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "172ba74f41a9313d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Character/Kael Voss.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kael Voss"
+            }
+          },
+          {
+            "id": "0b1cd29b33a7a209",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6e7876dc88fd2f9e",
+  "lastOpenFiles": [
+    "Alien/Skitterkin.md",
+    "Alien/The Dread Harbingers.md",
+    "Alien/The Hollowed.md",
+    "Alien/The Vyrrath.md",
+    "Character/Kael Voss.md",
+    "Character/Monarch.md",
+    "Class/Voidborn.md",
+    "Timeline/2057 – The Great Medical Breakthrough.md",
+    "Planet/Prime.md",
+    "Planet/Nox.md",
+    "Planet/Abyss.md",
+    "Class/Technocrats.md",
+    "Class/Executors.md",
+    "Class/Enforcer.md",
+    "Class/Drillworkers.md",
+    "Alien/Human - cockroach.md",
+    "Planet",
+    "Class/Immortal.md",
+    "Timeline/2066 – The Final Revolt.md",
+    "Timeline/2065 – The Guinea Pig Mission.md",
+    "Timeline/2063 – Internal Turmoil.md",
+    "Timeline/2062 – Exodus Fleet Launch.md",
+    "Timeline/2070 – The Long Journey Begins.md",
+    "Timeline/2067 – Earth’s Destruction.md",
+    "Untitled 1.md",
+    "Alien",
+    "Timeline/Timeline.md",
+    "Class",
+    "Character",
+    "Timeline",
+    "desktop.ini"
+  ]
+}

@@ -1,0 +1,2 @@
+Humanoid figures with hollowed-out torsos, elongated limbs, and glowing green fungus sprouting from their eye sockets. alien organism that consumes organs and puppeteers corpses.
+- The [[2065 – The Guinea Pig Mission]] unknowingly brought Drillworkers to fungus-infested zones.
